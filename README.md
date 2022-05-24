@@ -1,15 +1,39 @@
-5CA - Advanced Analytics Case Study
+Leveraging data analytics and machine learning to improve customer satisfaction
 ==============================
-2022 - [Jose Oliveira da Cruz](https://www.linkedin.com/in/josecruz-phd/), candidate for the data analytics role.
-
-This repository contains the materials (presentation + executable Jupyter notebooks) for the case study interview step at 5CA.
+[Udacity Nanodegree in Data Science](https://www.udacity.com/course/data-scientist-nanodegree--nd025) - Capstone
 
 
-
-## Repository Contents
+[Brief summary of the project and findings]
 
 
 
+
+If you have any questions or suggestions, just send me a 💬 via [LinkedIn](). Enjoy!
+
+
+
+
+Table of Contents
+---
+
+1. [Background](#background)
+2. [Repository Contents](#repository-contents)
+3. [Installation & Requirements](#installation-&-requirements)
+4. [The Data](#the-data)
+5. [Licensing and Acknowledgements](#licensing-and-cknowledgements)
+
+
+
+
+
+## 1. Background
+
+
+[Brief Description of the problem]
+
+
+
+## 2. Repository Contents
 
     ├── README.md          
     ├── data
@@ -27,7 +51,7 @@ This repository contains the materials (presentation + executable Jupyter notebo
 
 
 
-## Installation & Requirements
+## 3. Installation & Requirements
 
 1. Install a python environment with jupyter notebooks (e.g., [anaconda distribution](https://www.anaconda.com/products/individual)).
 
@@ -42,3 +66,29 @@ conda activate myenv
   1. `notebooks/nb01_data-exploration.ipynb`
   2. `notebooks/nb02_modeling-part1.ipynb`
   3. `notebooks/nb03_modeling-part2.ipynb`
+
+
+## 4. The Data
+
+
+[Brief descriptions of the data]
+
+
+
+
+
+
+
+
+
+## 5. Licensing and Acknowledgements
+
+The analysis and code generated during this project are licensed under a MIT License.
+
+
+
+## Disclaimer
+2022, [José Oliveira da Cruz](https://www.linkedin.com/in/josecruz-phd/)
+
+**_Disclaimer_**
+The author is not affiliated with any of the entities mentioned nor received any kind of compensation. The information contained in this work is provided on an "as is" basis with no guarantees of completeness, accuracy, usefulness or timeliness.
