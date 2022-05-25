@@ -8,7 +8,7 @@ Leveraging data analytics and machine learning to improve customer satisfaction
 
 
 
-If you have any questions or suggestions, just send me a 💬 via [LinkedIn](). Enjoy!
+If you have any questions or suggestions, just send me a 💬 via [LinkedIn](https://www.linkedin.com/in/josecruz-phd/). Enjoy!
 
 
 
@@ -16,7 +16,10 @@ If you have any questions or suggestions, just send me a 💬 via [LinkedIn](). 
 Table of Contents
 ---
 
-1. [Background](#background)
+1. [About](#background)
+  - [Project Definition](#project-definition)
+  - [Analysis](#analysis)
+  - [Conclusion](#conclusion)
 2. [Repository Contents](#repository-contents)
 3. [Installation & Requirements](#installation-&-requirements)
 4. [The Data](#the-data)
